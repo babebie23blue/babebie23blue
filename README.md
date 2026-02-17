@@ -15,9 +15,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## 📌 Featured Projects
 
 - **Kinder Bot for Early Childhood Learning**
-  -  Designed intuitive user interfaces and experiences for a cross-platform mobile application and website using Figma, tailored for early childhood education.
-  -  Engineered both software and hardware components of an educational robot using C++ for embedded systems and Flutter for the mobile application.
-  -  Analyzed and enhanced app and robot features to support children’s learning goals, with a focus on performance, safety, and age-appropriate design.
+  - Designed intuitive user interfaces and experiences for a cross-platform mobile application and website using Figma, tailored for early childhood education.
+  - Engineered both software and hardware components of an educational robot using C++ for embedded systems and Flutter for the mobile application.
+  - Analyzed and enhanced app and robot features to support children’s learning goals, with a focus on performance, safety, and age-appropriate design.
 
 - **Journal Publication**:
   Kinder Bot for Early Childhood Learning
@@ -26,7 +26,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - **Analyze Spotify usage behavior using K-Means Clustering**
   🔗 https://medium.com/@thamonwan.n/วิเคราะห์พฤติกรรมการใช้-spotify-ด้วย-k-means-clustering-8c13ce171026
 
-- **UI/UX Design Projects (Figma)**: VegFruits Delivery App
+- **UI/UX Design Projects (Figma)**:  VegFruits Delivery App
    🔗 https://www.figma.com/design/Z2MyC9R8D4bf3wLj1MhMyz/%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%9C%E0%B8%A5%E0%B9%84%E0%B8%A1%E0%B9%89?node-id=0-1&t=yQeQ0IGGylceZfsp-1
 
 
@@ -38,7 +38,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 ## Orther Skills
-- **Testing**: Cypress, Robot Framework
+- **Testing**: Cypress, Robot Framework, Postman(Test API)
+
+## Certificated
+    - Doppio Tech QA Workshop Camp 2025 held from 23rd to 27th June 2025
 
 ## Socials
 
