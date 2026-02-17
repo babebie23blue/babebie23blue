@@ -26,8 +26,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - **Analyze Spotify usage behavior using K-Means Clustering**
   🔗 https://medium.com/@thamonwan.n/วิเคราะห์พฤติกรรมการใช้-spotify-ด้วย-k-means-clustering-8c13ce171026
 
-- **UI/UX Design Projects (Figma)**
-- **VegFruits Delivery App**
+- **UI/UX Design Projects (Figma)**: VegFruits Delivery App
    🔗 https://www.figma.com/design/Z2MyC9R8D4bf3wLj1MhMyz/%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%9C%E0%B8%A5%E0%B9%84%E0%B8%A1%E0%B9%89?node-id=0-1&t=yQeQ0IGGylceZfsp-1
 
 
