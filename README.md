@@ -27,9 +27,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   🔗 https://medium.com/@thamonwan.n/วิเคราะห์พฤติกรรมการใช้-spotify-ด้วย-k-means-clustering-8c13ce171026
 
 - **Sajja Group Savings System**
--  🔗 Class diagram:  [https://drive.google.com/file/d/1iqStZhG5l-rRgD4ZUqTzc2n1HKiOWXwM/view](https://drive.google.com/file/d/1iqStZhG5l-rRgD4ZUqTzc2n1HKiOWXwM/view?usp=sharing)
--  🔗 SD_diagram:  [https://drive.google.com/file/d/1iqStZhG5l-rRgD4ZUqTzc2n1HKiOWXwM/view](https://drive.google.com/file/d/12f4yF5X2bdjVC4hz8K5h_qYpjEfkXDf1/view)
--  🔗 Presentation: https://www.canva.com/design/DAFwGLt4w5Y/0L9e1SvXHOkud0ehF9oKSQ/edit?utm_content=DAFwGLt4w5Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+  -  🔗 Class diagram:  [https://drive.google.com/file/d/1iqStZhG5l-rRgD4ZUqTzc2n1HKiOWXwM/view](https://drive.google.com/file/d/1iqStZhG5l-rRgD4ZUqTzc2n1HKiOWXwM/view?usp=sharing)
+  -  🔗 SD_diagram:  [https://drive.google.com/file/d/1iqStZhG5l-rRgD4ZUqTzc2n1HKiOWXwM/view](https://drive.google.com/file/d/12f4yF5X2bdjVC4hz8K5h_qYpjEfkXDf1/view)
+  -  🔗 Presentation: https://www.canva.com/design/DAFwGLt4w5Y/0L9e1SvXHOkud0ehF9oKSQ/edit?utm_content=DAFwGLt4w5Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 - **Dexclub shop**
   🔗 https://drive.google.com/drive/folders/1FwdaDW8THtUUkzaTmHYP_JajMaj7c5Uo?usp=drive_link
