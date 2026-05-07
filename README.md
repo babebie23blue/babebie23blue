@@ -34,8 +34,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - **Dexclub shop**
   - 🔗 https://drive.google.com/drive/folders/1FwdaDW8THtUUkzaTmHYP_JajMaj7c5Uo?usp=drive_link
 
-- **UI/UX Design Projects (Figma)**:  VegFruits Delivery App
-  - 🔗 https://www.figma.com/design/Z2MyC9R8D4bf3wLj1MhMyz/%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%9C%E0%B8%A5%E0%B9%84%E0%B8%A1%E0%B9%89?node-id=0-1&t=yQeQ0IGGylceZfsp-1
 
 
 
