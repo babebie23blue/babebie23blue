@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 👾 MBTI: ENTJ-T
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [thamonwan.najaruai@gmail.com](mailto:thamonwan.najaruai@gmail.com)
+* ✉️  You can contact me at [thamonwannacharuai@gmail.com](mailto:thamonwannacharuai@gmail.com)
 * 🧠  I'm currently learning .NET Framework, TypeScript, ReactJS
 * 💬  I enjoy socializing and get along well with my teammates.
 
