@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🎓 Information Technology graduate from Khon Kaen University
 
-🖥️ Interested in Ux/ Ui Designer / System Analyst / Software Tester
 
 👾 MBTI: ENTJ-T
 
