@@ -8,7 +8,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [thamonwannacharuai@gmail.com](mailto:thamonwannacharuai@gmail.com)
-* 🧠  I'm currently learning .NET Framework, TypeScript, ReactJS
 * 💬  I enjoy socializing and get along well with my teammates.
 
 ## 📌 Featured Projects
@@ -32,6 +31,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - **Dexclub shop**
   - 🔗 https://drive.google.com/drive/folders/1FwdaDW8THtUUkzaTmHYP_JajMaj7c5Uo?usp=drive_link
+
+- **Pak App Design**
+   - 🔗 https://www.figma.com/design/Z2MyC9R8D4bf3wLj1MhMyz/%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%9C%E0%B8%A5%E0%B9%84%E0%B8%A1%E0%B9%89?node-id=0-1&t=r2waD4hRn2xYWi56-1
+
+- **SPN Project WebApp**
+   - 🔗 https://www.figma.com/proto/U9NBGB7Edxk8zmwojML65U/SPN-Projects?node-id=222-93&starting-point-node-id=222%3A93&scaling=min-zoom&content-scaling=fixed
+
+- **Pi Sarn Project Design**
+   - 🔗 Prototype: https://www.figma.com/design/nX87Isrgeg1NlMvhZ8pvAs/Prototype_SMIT?node-id=0-1&t=jwQH0ZF6wqnjmvms-1
 
 
 
